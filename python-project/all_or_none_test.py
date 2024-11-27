@@ -46,22 +46,28 @@ def test_all_or_none():
                  [('A', 'B'), ('B', 'C')],  
                  [('A', 'B'), ('B', 'C'), ('C', 'D'), ('E', 'F')]
             ]
-    
+
+    all_tests_passed = True
     for test in TESTS:
 
         try:
             answer = minimize_all_or_none_sets(deepcopy(test))
     
             assert check_answer(deepcopy(test), answer), f'Failure: {test}'
-            success()
+            # success()
             send_msg("Kudos 🌟", f'Success: {test}')
 
         except AssertionError as e:
-            fail()
+            # fail()
             send_msg("Oops! 🐞", e)
             send_msg("Hint 💡", "Did you properly accumulate all stars into 'total_stars'? 🤔")
-
+            all_tests_passed = False
             break
+
+    if all_tests_passed:
+        success()
+    else:
+        fail()
 
 
 if __name__ == "__main__":
