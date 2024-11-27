@@ -74,7 +74,7 @@ def test_all_or_none():
             answer = minimize_all_or_none_sets(deepcopy(test))
     
             assert check_answer(deepcopy(test), answer), f'Failed Test: {test}'
-            send_msg("Successful Test Cases:", f'Success: {test}')
+            send_msg("Successful Test Cases:", f'Test Input: {test}')
 
         except AssertionError as e:
             send_msg("Oops! 🐞", e)
