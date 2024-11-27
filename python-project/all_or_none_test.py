@@ -56,6 +56,7 @@ def check_answer(test, answer):
 
         error_messages.append('')
         error_messages.append('These are the groups you found:')
+        error_messages.append('')
         for group in sorted(answers):
             error_messages.append(f'   {list(group)}')
 
