@@ -48,7 +48,6 @@ def check_answer(test, answer):
     elif proper_answers != answers:
         error_messages.append(f'Although you have the correct number of all-or-none groups, the group members are not correct.')
         error_messages.append('')
-        error_messages.append('')
         error_messages.append('These are the expected all-or-none groups:')
         error_messages.append('')
         for group in sorted(proper_answers):
@@ -78,7 +77,8 @@ def test_all_or_none():
 
         try:
             answer = minimize_all_or_none_sets(deepcopy(test))
-    
+
+            assert type(answer) in [str, set], f'Your code mst return a list or set. {type(answer)} not allowed.'
             assert check_answer(deepcopy(test), answer), f'Failed Test: {test}'
             send_msg("Successful Test Cases:", f'Test Input: {test}')
 
