@@ -14,6 +14,31 @@ def fail():
     print("TECHIO> success false")
 
 
+def check_answer(test, answer):
+
+    all_or_none_sets = [set(group) for group in test]
+
+    changes_made = True
+    while changes_made:
+        changes_made = False
+        new_all_or_none_sets = []
+        for group_1 in all_or_none_sets:
+            for i, group_2 in enumerate(new_all_or_none_sets):
+                if group_1 & group_2:
+                    new_all_or_none_sets[i] = group_1 | group_2
+                    changes_made = True
+                    break
+            else:
+                new_all_or_none_sets.append(group_1)
+
+        all_or_none_sets = new_all_or_none_sets
+
+    proper_answers = set(''.join(sorted(group)) for group in all_or_none_sets)
+    answers = set(''.join(sorted(group)) for group in answer)
+
+    return proper_answers == answers
+    
+
 def test_all_or_none():
 
     TESTS = [
