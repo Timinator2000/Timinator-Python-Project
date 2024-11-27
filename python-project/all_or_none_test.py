@@ -2,6 +2,9 @@ from all_or_none import minimize_all_or_none_sets
 from copy import deepcopy
 
 
+error_message = ''
+
+
 def send_msg(channel, msg):
     print("TECHIO> message --channel \"{}\" \"{}\"".format(channel, msg))
 
@@ -15,6 +18,8 @@ def fail():
 
 
 def check_answer(test, answer):
+
+    global error_message
 
     all_or_none_sets = [set(group) for group in test]
 
@@ -36,10 +41,24 @@ def check_answer(test, answer):
     proper_answers = set(''.join(sorted(group)) for group in all_or_none_sets)
     answers = set(''.join(sorted(group)) for group in answer)
 
+    if len(proper_answers) != len(answers):
+        error_message = f'Your answer has {len(answers)} all-or-none sets. Only {len(proper_answers)} were expected.'
+    elif proper_answers != answers:
+        error_message = f'Although you have the correct number of all-or-none groups, the group members are not correct.\n\n'
+        error_message += 'These are the expected all-or-none groups:\n
+        for group in sorted(proper_answers):
+            error_message += f'   {list(group)}\n'
+
+        error_message += '\nThese are the groups you found:'\n
+        for group in sorted(answers):
+            error_message += f'   {list(group)}\n'
+
     return proper_answers == answers
     
 
 def test_all_or_none():
+
+    global error_message
 
     TESTS = [
                  [('A', 'B'), ('C', 'D')],  
@@ -53,14 +72,12 @@ def test_all_or_none():
         try:
             answer = minimize_all_or_none_sets(deepcopy(test))
     
-            assert check_answer(deepcopy(test), answer), f'Failure: {test}'
-            # success()
-            send_msg("Kudos 🌟", f'Success: {test}')
+            assert check_answer(deepcopy(test), answer), f'Failed Test: {test}'
+            send_msg("Successful Test Cases:", f'Success: {test}')
 
         except AssertionError as e:
-            # fail()
             send_msg("Oops! 🐞", e)
-            send_msg("Hint 💡", "Did you properly accumulate all stars into 'total_stars'? 🤔")
+            send_msg("Hint 💡", error_message)
             all_tests_passed = False
             break
 
