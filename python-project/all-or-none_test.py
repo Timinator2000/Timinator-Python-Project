@@ -1,4 +1,4 @@
-from universe import count_all_stars 
+from all_or_none import minimize_all_or_none_sets 
 import builtins
 
 
@@ -29,9 +29,9 @@ def fail():
 
 def test_count_all_stars():
     try:
-        count1 = count_all_stars([2, 3])
+        count1 = minimize_all_or_none_sets([2, 3])
         assert count1 == 5, "Running count_all_stars([2, 3])... Expected 5, got {}".format(count1)
-        count2 = count_all_stars([9, -3])
+        count2 = minimize_all_or_none_sets([9, -3])
         assert count2 == 6, "Running count_all_stars([9, -3])... Expected 6, got {}".format(count2)
         success()
 
