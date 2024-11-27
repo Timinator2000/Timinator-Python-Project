@@ -79,7 +79,7 @@ def test_all_or_none():
 
         except AssertionError as e:
             send_msg("Oops! 🐞", e)
-            for msg in error_message:
+            for msg in error_messages:
                 send_msg("Hint 💡", msg)
             all_tests_passed = False
             break
