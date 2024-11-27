@@ -42,7 +42,8 @@ def check_answer(test, answer):
     answers = set(''.join(sorted(group)) for group in answer)
 
     if len(proper_answers) != len(answers):
-        error_message = f'Your answer has {len(answers)} all-or-none sets. Only {len(proper_answers)} were expected.'
+        verb if 'was' if len(proper_answers) == 1 else 'were' 
+        error_message = f'Your answer has {len(answers)} all-or-none groups. Only {len(proper_answers)} {verb} expected.'
     elif proper_answers != answers:
         error_message = f'Although you have the correct number of all-or-none groups, the group members are not correct.\n\n'
         error_message += 'These are the expected all-or-none groups:\n'
