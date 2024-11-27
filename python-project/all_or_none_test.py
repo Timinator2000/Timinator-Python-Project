@@ -49,7 +49,7 @@ def check_answer(test, answer):
         error_messages.append(f'Although you have the correct number of all-or-none groups, the group members are not correct.')
         error_messages.append('')
         error_messages.append('')
-        error_messages.append('These are the expected all-or-none groups:)
+        error_messages.append('These are the expected all-or-none groups:')
         error_messages.append('')
         for group in sorted(proper_answers):
             error_messages.append(f'   {list(group)}')
