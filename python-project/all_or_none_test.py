@@ -78,7 +78,7 @@ def test_all_or_none():
         try:
             answer = minimize_all_or_none_sets(deepcopy(test))
 
-            assert type(answer) in [str, set], f'Your code mst return a list or set. {type(answer)} not allowed.'
+            assert type(answer) in [list, set], f'Your code must return a list or set. {type(answer)} not allowed.'
             assert check_answer(deepcopy(test), answer), f'Failed Test: {test}'
             send_msg("Successful Test Cases:", f'Test Input: {test}')
 
