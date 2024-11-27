@@ -49,7 +49,7 @@ def test_all_or_none():
     
     for test in TESTS:
 
-        try
+        try:
             answer = minimize_all_or_none_sets(deepcopy(test))
     
             assert check_answer(deepcopy(test), answer), f'Failure: {test}'
