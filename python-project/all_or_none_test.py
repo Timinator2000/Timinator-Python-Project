@@ -45,11 +45,11 @@ def check_answer(test, answer):
         error_message = f'Your answer has {len(answers)} all-or-none sets. Only {len(proper_answers)} were expected.'
     elif proper_answers != answers:
         error_message = f'Although you have the correct number of all-or-none groups, the group members are not correct.\n\n'
-        error_message += 'These are the expected all-or-none groups:\n
+        error_message += 'These are the expected all-or-none groups:\n'
         for group in sorted(proper_answers):
             error_message += f'   {list(group)}\n'
 
-        error_message += '\nThese are the groups you found:'\n
+        error_message += '\nThese are the groups you found:\n'
         for group in sorted(answers):
             error_message += f'   {list(group)}\n'
 
