@@ -2,7 +2,7 @@ from all_or_none import minimize_all_or_none_sets
 from copy import deepcopy
 
 
-error_message = ''
+error_messages = []
 
 
 def send_msg(channel, msg):
@@ -20,7 +20,7 @@ def fail():
 
 def check_answer(test, answer):
 
-    global error_message
+    global error_messages
 
     all_or_none_sets = [set(group) for group in test]
 
@@ -44,16 +44,16 @@ def check_answer(test, answer):
 
     if len(proper_answers) != len(answers):
         verb = 'was' if len(proper_answers) == 1 else 'were' 
-        error_message = f'Your answer has {len(answers)} all-or-none groups. Only {len(proper_answers)} {verb} expected.'
+        error_messages.append(f'Your answer has {len(answers)} all-or-none groups. Only {len(proper_answers)} {verb} expected.')
     elif proper_answers != answers:
-        error_message = f'Although you have the correct number of all-or-none groups, the group members are not correct.\n\n'
-        error_message += 'These are the expected all-or-none groups:\n'
+        error_messages.append(f'Although you have the correct number of all-or-none groups, the group members are not correct.\n\n')
+        error_messages.append('These are the expected all-or-none groups:\n')
         for group in sorted(proper_answers):
-            error_message += f'   {list(group)}\n'
+            error_messages.append(f'   {list(group)}\n')
 
-        error_message += '\nThese are the groups you found:\n'
+        error_messages.append('\nThese are the groups you found:\n')
         for group in sorted(answers):
-            error_message += f'   {list(group)}\n'
+            error_messages.append(f'   {list(group)}\n')
 
     return proper_answers == answers
     
