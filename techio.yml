@@ -1,9 +1,7 @@
 title: Timinator Test Project1
 plan:
 - title: Welcome
-  statement: markdowns/welcome.md 
-- title: All-or-None Exercise
-  statement: markdowns/page2.md 
+  statement: markdowns/welcome.md
 - title: List Comprehensions
   statement: markdowns/list comprehension.md 
 projects:
