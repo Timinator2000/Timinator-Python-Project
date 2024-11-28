@@ -2,8 +2,10 @@ title: Timinator Test Project1
 plan:
 - title: Welcome
   statement: markdowns/welcome.md 
-- title: Page 2
+- title: All-or-None Exercise
   statement: markdowns/page2.md 
+- title: List Comprehensions
+  statement: markdowns/list comprehension.md 
 projects:
   python:
     root: /python-project
