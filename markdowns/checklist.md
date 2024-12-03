@@ -39,9 +39,12 @@
 
 # Remaining Tasks
 
+* Change all puzzle links below to go to the CG contributions page.
 * Fix [Assaf's Sudoku Solver] - page 2 or 3 I think and page 12
 * Address 5DN1L concern about Mutual Exclusivity explanation
-* Publish the Playground
+* page 83 - should 5DN1L's Algorithm C times be included?
+* page 88 - fix the very bottom reference to ARPP - should be Harmless Rooks
+* PUBLISH THE PLAYGROUND
 * Update playground links in puzzles:
   * [Mrs. Knuth – Part I](https://www.codingame.com/contribute/view/94231c8a12567007bde24553f6a9e3de55981)
   * [Mrs. Knuth – Part II](https://www.codingame.com/contribute/view/950238e7e8f40105ccd0fd6237bf60c4d25b3)
@@ -56,3 +59,10 @@
   * Shikaku Skill Builder - page 21 - SSB
   * Mrs. Knuth - Part II - page 28 - MK II
   * Mrs. Knuth - Part II - page 33 - MK II
+  * Ella Wants More Lessons - page 43 - MK III
+  * Should page 49 have a link to MK III
+  * Equation Search - page 51 - ES
+  * page 55 - extra spaces?
+  * Backseat Driving - page 67 - MK III
+  * Yet Another Word Search - page 76 - YAWS
+  * 
