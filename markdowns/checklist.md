@@ -4,7 +4,6 @@
 <BR>[16x16 Sudoku](https://www.codingame.com/training/medium/16x16-sudoku) (+50 XP)
 <BR>[25x25 Sudoku](https://www.codingame.com/training/expert/25x25-sudoku) (+50 XP)
 <BR>[Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver) (+50 XP)
-<BR>[Constrained Latin Squares](https://www.codingame.com/training/medium/constrained-latin-squares) (+50 XP)
 <BR>[Shikaku Solver](https://www.codingame.com/training/medium/shikaku-solver) (+50 XP)
 <BR>[Dominoes Solver](https://www.codingame.com/training/hard/dominoes-solver) (+50 XP)
 <BR>[n Queens](https://www.codingame.com/training/hard/n-queens) (+50 XP)
@@ -21,7 +20,6 @@
 <BR>[Killer Sudoku Solver](https://www.codingame.com/training/medium/killer-sudoku-solver) (+50 XP)
 <BR>[Kakuro Solver](https://www.codingame.com/training/hard/kakuro-solver) (+50 XP)
 <BR>[Killer Sudoku Extreme Challenge](https://www.codingame.com/training/hard/killer-sudoku-extreme-challenge) (+50 XP)
-<BR>[Tetris Floor](https://www.codingame.com/training/hard/tetris-floor) (+50 XP)
 <BR>[Agent X, Mission 2—Mysterious Cryptogram](https://www.codingame.com/training/medium/agent-x-mission-2mysterious-cryptogram) (+50 XP)
 <BR>[Harmless Rooks](https://www.codingame.com/training/hard/harmless-rooks) (+50 XP)
 
@@ -34,6 +32,8 @@
 <BR>[Literary Alfabet Soupe](https://www.codingame.com/training/medium/literary-alfabet-soupe) (+50 XP)
 <BR>[Finish the Eight Queens](https://www.codingame.com/training/medium/finish-the-eight-queens) (+50 XP)
 <BR>[Optimized Coloring](https://www.codingame.com/training/medium/optimized-coloring) (+50 XP)
+<BR>[Tetris Floor](https://www.codingame.com/training/hard/tetris-floor) (+50 XP)
+<BR>[Constrained Latin Squares](https://www.codingame.com/training/medium/constrained-latin-squares) (+50 XP)
 
 
 
