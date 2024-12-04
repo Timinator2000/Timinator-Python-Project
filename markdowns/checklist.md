@@ -10,7 +10,6 @@
 <BR>[Three Little Piggies](https://www.codingame.com/training/hard/three-little-piggies) (+50 XP)
 <BR>[Futoshiki Solver](https://www.codingame.com/training/medium/futoshiki-solver) (+50 XP)
 <BR>[Suguru Solver](https://www.codingame.com/training/medium/suguru-solver) (+50 XP)
-<BR>[Dumbbells Solver](https://www.codingame.com/training/hard/dumbbells-solver) (+50 XP)
 <BR>[Hitori Solver](https://www.codingame.com/training/hard/hitori-solver) (+50 XP)
 <BR>[There Is No Spoon – Episode 2](https://www.codingame.com/training/hard/there-is-no-spoon-episode-2) (+250 XP) 🚀🚀🚀
 <BR>[Takuzu Solver](https://www.codingame.com/training/hard/takuzu-solver) (+50 XP)
@@ -34,6 +33,7 @@
 <BR>[Einstein’s Riddle Solver](https://www.codingame.com/training/hard/einsteins-riddle-solver) (+50 XP)
 <BR>[n Queens](https://www.codingame.com/training/hard/n-queens) (+50 XP)
 <BR>[High-Rise Buildings](https://www.codingame.com/training/expert/high-rise-buildings) (+50 XP)
+<BR>[Dumbbells Solver](https://www.codingame.com/training/hard/dumbbells-solver) (+50 XP)
 
 
 
