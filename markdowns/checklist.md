@@ -14,7 +14,6 @@
 <BR>[Hitori Solver](https://www.codingame.com/training/hard/hitori-solver) (+50 XP)
 <BR>[There Is No Spoon – Episode 2](https://www.codingame.com/training/hard/there-is-no-spoon-episode-2) (+250 XP) 🚀🚀🚀
 <BR>[Takuzu Solver](https://www.codingame.com/training/hard/takuzu-solver) (+50 XP)
-<BR>[High-Rise Buildings](https://www.codingame.com/training/expert/high-rise-buildings) (+50 XP)
 <BR>[Killer Sudoku Solver](https://www.codingame.com/training/medium/killer-sudoku-solver) (+50 XP)
 <BR>[Kakuro Solver](https://www.codingame.com/training/hard/kakuro-solver) (+50 XP)
 <BR>[Killer Sudoku Extreme Challenge](https://www.codingame.com/training/hard/killer-sudoku-extreme-challenge) (+50 XP)
@@ -34,6 +33,7 @@
 <BR>[Constrained Latin Squares](https://www.codingame.com/training/medium/constrained-latin-squares) (+50 XP)
 <BR>[Einstein’s Riddle Solver](https://www.codingame.com/training/hard/einsteins-riddle-solver) (+50 XP)
 <BR>[n Queens](https://www.codingame.com/training/hard/n-queens) (+50 XP)
+<BR>[High-Rise Buildings](https://www.codingame.com/training/expert/high-rise-buildings) (+50 XP)
 
 
 
