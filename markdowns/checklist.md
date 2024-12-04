@@ -66,4 +66,5 @@
   * page 55 - extra spaces?
   * Backseat Driving - page 67 - MK III
   * Yet Another Word Search - page 76 - YAWS
-  * 
+ 
+# 36 x 36 Sudoku - How about 49 x 49?
