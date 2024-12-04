@@ -40,10 +40,11 @@
 # Remaining Tasks
 
 * Change all puzzle links below to go to the CG contributions page.
-* Fix [Assaf's Sudoku Solver] - page 2 or 3 I think and page 12
 * Address 5DN1L concern about Mutual Exclusivity explanation
+* page 13 - bottom - did I identify where partial solution option was used?
 * page 83 - should 5DN1L's Algorithm C times be included?
-* page 88 - fix the very bottom reference to ARPP - should be Harmless Rooks
+
+
 * PUBLISH THE PLAYGROUND
 * Update playground links in puzzles:
   * [Mrs. Knuth – Part I](https://www.codingame.com/contribute/view/94231c8a12567007bde24553f6a9e3de55981)
