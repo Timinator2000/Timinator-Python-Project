@@ -39,7 +39,7 @@
 
 # Remaining Tasks
 
-* Change all puzzle links below to go to the CG contributions page.
+* Change all puzzle links below to indicate puzzle not approved yet.
 * Address 5DN1L concern about Mutual Exclusivity explanation
 * page 13 - bottom - did I identify where partial solution option was used?
 * page 83 - should 5DN1L's Algorithm C times be included?
