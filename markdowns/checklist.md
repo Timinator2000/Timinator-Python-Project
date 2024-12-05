@@ -1,6 +1,5 @@
 # Republish
 
-<BR>[Dominoes Solver](https://www.codingame.com/training/hard/dominoes-solver) (+50 XP)
 <BR>[Winamax](https://www.codingame.com/training/hard/winamax-sponsored-contest) (+250 XP) 🚀🚀🚀
 <BR>[Three Little Piggies](https://www.codingame.com/training/hard/three-little-piggies) (+50 XP)
 <BR>[Futoshiki Solver](https://www.codingame.com/training/medium/futoshiki-solver) (+50 XP)
@@ -34,6 +33,7 @@
 <BR>[16x16 Sudoku](https://www.codingame.com/training/medium/16x16-sudoku) (+50 XP)
 <BR>[25x25 Sudoku](https://www.codingame.com/training/expert/25x25-sudoku) (+50 XP)
 <BR>[Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver) (+50 XP)
+<BR>[Dominoes Solver](https://www.codingame.com/training/hard/dominoes-solver) (+50 XP)
 
 
 
