@@ -45,6 +45,8 @@
 * page 83 - should 5DN1L's Algorithm C times be included?
 
 
+# Upon Publishing
+
 * PUBLISH THE PLAYGROUND
 * Update playground links in puzzles:
   * [Mrs. Knuth – Part I](https://www.codingame.com/contribute/view/94231c8a12567007bde24553f6a9e3de55981)
@@ -53,7 +55,11 @@
   * [Equation Search](https://www.codingame.com/contribute/view/100071e2989e321b98a5118cdacdf90ebf6d26)
   * [Ye_ An_th_r W_rd Se_rch](https://www.codingame.com/contribute/view/493839424591127bcdbb6371018895b7bf742)
   * [Shikaku Skill Builder](https://www.codingame.com/contribute/view/10244722a13a0e3269ba38f7c562148ed31d32)
-* Update puzzle links on these pages:
+ 
+
+# After Publishing - Upon Puzzle Approvals
+
+* WHEN APPROVED, update puzzle links on these pages:
   * Introduction - page 1 - MK I, MK II, MK II, ES, YAWS, SSB
   * Mrs. Knuth - page 3 - MK I
   * Mrs. Knuth - Park I - page 11 - MK I
