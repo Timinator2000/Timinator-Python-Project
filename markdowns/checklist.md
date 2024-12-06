@@ -61,7 +61,7 @@
   * Mrs. Knuth - Part II - page 28 - MK II
   * Mrs. Knuth - Part II - page 33 - MK II
   * Ella Wants More Lessons - page 43 - MK III
-  * Should page 49 have a link to MK III
+  * Solving Mrs. Knuth Part III - page 49 - MK III
   * Equation Search - page 51 - ES
   * page 55 - extra spaces?
   * Backseat Driving - page 67 - MK III
