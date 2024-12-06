@@ -4,9 +4,7 @@
 <BR>[Three Little Piggies](https://www.codingame.com/training/hard/three-little-piggies) (+50 XP)
 <BR>[Futoshiki Solver](https://www.codingame.com/training/medium/futoshiki-solver) (+50 XP)
 <BR>[Suguru Solver](https://www.codingame.com/training/medium/suguru-solver) (+50 XP)
-<BR>[Hitori Solver](https://www.codingame.com/training/hard/hitori-solver) (+50 XP)
 <BR>[There Is No Spoon – Episode 2](https://www.codingame.com/training/hard/there-is-no-spoon-episode-2) (+250 XP) 🚀🚀🚀
-<BR>[Takuzu Solver](https://www.codingame.com/training/hard/takuzu-solver) (+50 XP)
 <BR>[Kakuro Solver](https://www.codingame.com/training/hard/kakuro-solver) (+50 XP)
 <BR>[Agent X, Mission 2—Mysterious Cryptogram](https://www.codingame.com/training/medium/agent-x-mission-2mysterious-cryptogram) (+50 XP)
 <BR>[Harmless Rooks](https://www.codingame.com/training/hard/harmless-rooks) (+50 XP)
@@ -34,6 +32,8 @@
 <BR>[25x25 Sudoku](https://www.codingame.com/training/expert/25x25-sudoku) (+50 XP)
 <BR>[Mini Sudoku Solver](https://www.codingame.com/training/hard/mini-sudoku-solver) (+50 XP)
 <BR>[Dominoes Solver](https://www.codingame.com/training/hard/dominoes-solver) (+50 XP)
+<BR>[Hitori Solver](https://www.codingame.com/training/hard/hitori-solver) (+50 XP)
+<BR>[Takuzu Solver](https://www.codingame.com/training/hard/takuzu-solver) (+50 XP)
 
 
 
