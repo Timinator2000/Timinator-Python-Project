@@ -59,16 +59,11 @@
 # After Publishing - Upon Puzzle Approvals
 
 * WHEN APPROVED, update puzzle links on these pages:
-  * Introduction - page 1 - MK I, MK II, MK II, ES, YAWS, SSB
-  * Mrs. Knuth - page 3 - MK I
-  * Mrs. Knuth - Park I - page 11 - MK I
-  * Shikaku Skill Builder - page 21 - SSB
-  * Mrs. Knuth - Part II - page 28 - MK II
-  * Mrs. Knuth - Part II - page 33 - MK II
-  * Ella Wants More Lessons - page 43 - MK III
-  * Solving Mrs. Knuth Part III - page 49 - MK III
-  * Equation Search - page 51 - ES
-  * Backseat Driving - page 67 - MK III
-  * Yet Another Word Search - page 76 - YAWS
+  * Mrs. Knuth Part I - pages 1, 3, 11
+  * Mrs. Knuth Part II - pages 1, 28, 33
+  * Mrs. Knuth Part III - pages 1, 43, 49, 67
+  * Equation Search - pages 1, 51
+  * Shikaku Skill Builder - pages 1, 21
+  * Yet Another Word Search - pages 1, 76
  
 # 36 x 36 Sudoku - How about 49 x 49?
