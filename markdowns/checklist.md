@@ -1,8 +1,3 @@
-# Republish
-
-<BR>[Agent X, Mission 2—Mysterious Cryptogram](https://www.codingame.com/training/medium/agent-x-mission-2mysterious-cryptogram) (+50 XP)
-<BR>[Harmless Rooks](https://www.codingame.com/training/hard/harmless-rooks) (+50 XP)
-
 # Remaining Tasks
 
 * Address 5DN1L concern about Mutual Exclusivity explanation
