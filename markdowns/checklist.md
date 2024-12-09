@@ -4,8 +4,8 @@
 * page 13 - bottom - did I identify where partial solution option was used?
 * Update all puzzle solutions to 12/01/2024 `AlgorithmXSolver`
 * Make many links to other puzzles be playground links instead of links to the puzzle.
-* Add Who Dunnit? to the playground.
-  * solution with colors meaning two areas in the playground?
+* Who Dunnit? page
+* Who Dunnit (Revisited) page
 
 
 # Upon Publishing
@@ -29,5 +29,6 @@
   * Equation Search - pages 1, 51
   * Shikaku Skill Builder - pages 1, 21
   * Yet Another Word Search - pages 1, 76
+  * Who Dunnit - 2 pages TBD - regular and revisited
  
 # 36 x 36 Sudoku - How about 49 x 49?
