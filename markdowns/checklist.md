@@ -2,7 +2,6 @@
 
 * Address 5DN1L concern about Mutual Exclusivity explanation
 * page 13 - bottom - did I identify where partial solution option was used?
-* Update all puzzle solutions to 12/01/2024 `AlgorithmXSolver`
 * Make many links to other puzzles be playground links instead of links to the puzzle.
 * Who Dunnit? page
 * Who Dunnit (Revisited) page
