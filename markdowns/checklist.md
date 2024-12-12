@@ -5,6 +5,7 @@
 * Make many links to other puzzles be playground links instead of links to the puzzle.
 * Who Dunnit? page
 * Who Dunnit (Revisited) page
+* 5DN1L wants a summary of what to do to build a solver with coloring functionality
 
 
 # Upon Publishing
@@ -32,4 +33,4 @@
  
 # Other Ideas
 
-* 6 x 36 Sudoku - How about 49 x 49
+* 36 x 36 Sudoku - How about 49 x 49
