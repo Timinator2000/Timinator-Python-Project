@@ -30,4 +30,6 @@
   * Yet Another Word Search - pages 1, 76
   * Who Dunnit - 2 pages TBD - regular and revisited
  
-# 36 x 36 Sudoku - How about 49 x 49?
+# Other Ideas
+
+* 6 x 36 Sudoku - How about 49 x 49
