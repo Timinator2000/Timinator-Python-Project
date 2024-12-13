@@ -22,12 +22,12 @@
 # After Publishing - Upon Puzzle Approvals
 
 * WHEN APPROVED, update puzzle links on these pages:
-  * Mrs. Knuth Part I - pages 1, 3, 11
-  * Mrs. Knuth Part II - pages 1, 28, 33
-  * Mrs. Knuth Part III - pages 1, 43, 49, 67
-  * Equation Search - pages 1, 51
-  * Shikaku Skill Builder - pages 1, 21
-  * Yet Another Word Search - pages 1, 76
+  * Mrs. Knuth Part I - pages 3, 11
+  * Mrs. Knuth Part II - pages 28, 33
+  * Mrs. Knuth Part III - pages 43, 49, 67
+  * Equation Search - pages 51
+  * Shikaku Skill Builder - pages 21
+  * Yet Another Word Search - pages 76
   * Who Dunnit - page TBD inside 2025 and Beyond
  
 # Other Ideas
