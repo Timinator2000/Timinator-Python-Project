@@ -5,7 +5,6 @@
 * Make many links to other puzzles be playground links instead of links to the puzzle.
 * 2025 and Beyond
   * Who Dunnit? page
-* page 75 5DN1L's link to page 80 
 
 
 # Upon Publishing
