@@ -3,9 +3,9 @@
 * Address 5DN1L concern about Mutual Exclusivity explanation
 * page 13 - bottom - did I identify where partial solution option was used?
 * Make many links to other puzzles be playground links instead of links to the puzzle.
-* Who Dunnit? page
-* Who Dunnit (Revisited) page
-* 5DN1L wants a summary of what to do to build a solver with coloring functionality
+* 2025 and Beyond
+  * Who Dunnit? page
+* page 75 5DN1L's link to page 80 
 
 
 # Upon Publishing
@@ -29,7 +29,7 @@
   * Equation Search - pages 1, 51
   * Shikaku Skill Builder - pages 1, 21
   * Yet Another Word Search - pages 1, 76
-  * Who Dunnit - 2 pages TBD - regular and revisited
+  * Who Dunnit - page TBD inside 2025 and Beyond
  
 # Other Ideas
 
