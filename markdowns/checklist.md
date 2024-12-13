@@ -4,7 +4,7 @@
 * page 13 - bottom - did I identify where partial solution option was used?
 * Make many links to other puzzles be playground links instead of links to the puzzle.
 * 2025 and Beyond
-  * Who Dunnit? page
+* Who Dunnit?
 
 
 # Upon Publishing
