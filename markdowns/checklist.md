@@ -1,7 +1,6 @@
 # Remaining Tasks
 
 * Address 5DN1L concern about Mutual Exclusivity explanation
-* page 13 - bottom - did I identify where partial solution option was used?
 * confirm all internal & external links
    * logic progress page?
 * 2025 and Beyond
