@@ -1,6 +1,5 @@
 # Remaining Tasks
 
-* Address 5DN1L concern about Mutual Exclusivity explanation
 * 2025 and Beyond
 * Who Dunnit?
 
