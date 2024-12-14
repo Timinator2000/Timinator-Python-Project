@@ -1,8 +1,6 @@
 # Remaining Tasks
 
 * Address 5DN1L concern about Mutual Exclusivity explanation
-* confirm all internal & external links
-   * logic progress page?
 * 2025 and Beyond
 * Who Dunnit?
 
