@@ -1,7 +1,6 @@
 # Remaining Tasks
 
 * Clean up solutions:
-  * [Equation Search](https://www.codingame.com/contribute/view/100071e2989e321b98a5118cdacdf90ebf6d26)
   * [Ye_ An_th_r W_rd Se_rch](https://www.codingame.com/contribute/view/493839424591127bcdbb6371018895b7bf742)
 
 
