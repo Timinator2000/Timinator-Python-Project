@@ -1,7 +1,6 @@
 # Remaining Tasks
 
 * Clean up solutions:
-  * [Mrs. Knuth – Part III](https://www.codingame.com/contribute/view/959460130d2f9792d933f75838edb639a6dae)
   * [Equation Search](https://www.codingame.com/contribute/view/100071e2989e321b98a5118cdacdf90ebf6d26)
   * [Ye_ An_th_r W_rd Se_rch](https://www.codingame.com/contribute/view/493839424591127bcdbb6371018895b7bf742)
 
